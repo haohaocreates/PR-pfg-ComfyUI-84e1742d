@@ -1,0 +1,14 @@
+[project]
+name = "pfg-comfyui"
+description = "ComfyUI version of https://github.com/laksjdjf/pfg-webui. (To use this extension, you need to download the required model file from **Install Models**)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/laksjdjf/pfg-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "pfg-ComfyUI"
+Icon = ""
